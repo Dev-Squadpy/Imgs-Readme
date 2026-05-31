@@ -21,39 +21,15 @@
 
 <!-- MasterHead -->
 <a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
-  <img width="100%" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/BEZEHEL.gif" alt="Fallout GIF"/>
+  <img width="100%" src="https://iili.io/C38oPaI.png" alt="Molly"/>
 </a>
 
 <!-- Greeting -->
 <!--<h2 align="center">❂ I am Joshua Thadi</h2>-->
 
-
-
-<div align="center">
-  <!-- Profile Views -->
-  
-  <a href="https://github.com/JoshuaThadi" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=JoshuaThadi&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
-  
-  <!--<img src="https://img.shields.io/badge/Profile%20Views-12,391-5e81ac?style=for-the-badge&logo=github" />-->
-
-  <!-- Total Stars -->
-  <a href="https://github.com/joshuathadi?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/joshuathadi?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
-
-  <!-- Followers -->
-  <a href="https://github.com/joshuathadi?tab=followers" target="_blank">
-    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/joshuathadi?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
-
-  <a style="display:block;" href="https://github.com/joshuathadi?tab=repositories&q=&type=source&language=&sort=stargazers">
-    <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fork&color=bf616a&labelColor=5C5858&logoColor=ffffff&label=Forks&style=for-the-badge&query=%24.forks&refresh=1&url=https://api.github-star-counter.workers.dev/user/joshuathadi" /></a>
-  
-</div>
-
-<img align="left" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
-
 <!-- About Me -->
-<h3 align="left">💫 About Me</h3>
+# <h1 align="center"><b>¡Hola! Soy Ángel David Núñez / @Dev-Squadpy  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h2 align="left">💫 About Me</h2>
 <p>
   🌱 I am currently working on and developing my programming skills.<br>
   🔭 I worked on .NET Framework and have experience in ASP.NET MVC.<br>
@@ -63,55 +39,13 @@
 
 <h3 align="left">🧲 Drop me a line:</h3>
 <div align="left">
-  <a href="mailto:thadijoshua@gmail.com"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
+  <a href="mailto:angeldavids052007@gmail.com.com"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/joshuathadi" target="_blank"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
   <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/11zon_cropped.png" alt="Portfolio" /></a>
-  <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
-  <a href="https://youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n&si=QA1tSQcT_Ogw5DjG" target="_blank"><img width="37px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/youtube-red1.png" alt="YouTube" /></a>
 </div>
 
 <br>
 <br>
-
-<!-- Languages & Tools -->
-<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-  <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
-</div>
-
-<br>
-
-<!-- GitHub Status -->
-<!--<h3 align="center">🌱 GitHub Status</h3>
-<div align="center">
-   <img width="398" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" /> 
-<img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=joshuathadi&theme=nord&hide_border=false" alt="." />
-</div>-->
-
-
-
-<!-- Best Repositories -->
-<div align="center">
-  <h3>⭐️ Interesting Repositories</h3>
-  <p align="center">
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Wall-E-Desk" /></a>
-<a href="https://github.com/JoshuaThadi/Void-OSE">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Void-OSE" /></a>
-<a href="https://github.com/JoshuaThadi/IDE-Cosmo">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=IDE-Cosmo" /></a>
-<a href="https://github.com/JoshuaThadi/Books-Of-Knowledge">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Books-Of-Knowledge" /></a>
-<a href="https://github.com/JoshuaThadi/PixelVault">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=PixelVault" /></a>
-<a href="https://github.com/JoshuaThadi/My-Projects">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=My-Projects" /></a>
-  </p>
-</div>
 
 
 <!-- Tech Stack -->
@@ -161,21 +95,59 @@
 
 </div>
 
+<div align="center">
 
+<h2>Statistics</h2>
 
-<!-- Support -->
-<h3 align="center">💰 Support Me</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/joshuathadi">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" align="center">
+  <h4>Most Used Languages</h4>
+  <img 
+    src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=Dev-Squadpy&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8"
+    alt="Top Languages"
+  />
+</td>
+<td width="50%" align="center">
+  <h4>GitHub Stats</h4>
+  <img 
+    src="https://github-readme-stats-two-beta-28.vercel.app/api?username=Dev-Squadpy&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+    alt="GitHub Stats"
+  />
+</td>
+</tr>
+</table>
+
+<h3>Contribution Streak</h3>
+
+<img 
+  src="https://streak-stats.demolab.com?user=Dev-Squadpy&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
+  alt="GitHub Streak"
+/>
+
+<h3>Contribution Graph</h3>
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Squadpy&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Nurmuhammet%20Altybaev's%20Contribution%20Graph"
+  alt="Activity Graph"
+  width="100%"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+<h3>Random Dev Quote</h3>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- Ending -->
-<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/green.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
+<img src="https://iili.io/C381N8g.png" alt="Wall-E GIF" style="width:auto; height:auto" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
 <p align="center">
-  ⚠️ This README is uniquely designed by <strong>@JoshuaThadi.</strong>
+  ⚠️ This README is uniquely designed by <strong>@Dev-Squadpy.</strong>
 </p>
