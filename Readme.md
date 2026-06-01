@@ -52,12 +52,12 @@
 
 <h3 align="left">💬 Ponte en contacto</h3>
 <div align="left">
-  <a href="mailto:angeldavids052007@gmail.com.com"><img width="35px" src="gmail_new_logo_icon_159149.webp" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/%C3%A1ngel-n%C3%BA%C3%B1ez-8620b3274/"><img width="35px" src="linkedin_logo_icon_147268.webp" alt="Linkedin" /></a>
-  <a href="https://www.instagram.com/mollfloww/"><img width="35px" src="instagram_logo_icon_186894.webp" alt="Instagram" /></a>
-  <a href="https://x.com/Angel0046167394"><img width="35px" src="268058_x-logo-icon.webp" alt="X" /></a>
-  <a href="https://linktr.ee/mollflow094"><img width="35px" src="linktree_logo_icon_247832.webp" /></a>
-  <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank"><img width="60px" src="Gemini_Generated_Image_70nmqp70nmqp70nm-removebg-preview.png" alt="Portfolio" /></a>
+  <a href="mailto:angeldavids052007@gmail.com.com"><img width="35px" src="https://github.com/Dev-Squadpy/imgreadme/blob/main/gmail.webp" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/%C3%A1ngel-n%C3%BA%C3%B1ez-8620b3274/"><img width="35px" src="https://github.com/Dev-Squadpy/imgreadme/blob/main/linkedin.webp" alt="Linkedin" /></a>
+  <a href="https://www.instagram.com/mollfloww/"><img width="35px" src="https://github.com/Dev-Squadpy/imgreadme/blob/main/ig.webp" alt="Instagram" /></a>
+  <a href="https://x.com/Angel0046167394"><img width="35px" src="https://github.com/Dev-Squadpy/imgreadme/blob/main/x.webp" alt="X" /></a>
+  <a href="https://linktr.ee/mollflow094"><img width="35px" src="https://github.com/Dev-Squadpy/imgreadme/blob/main/linktree.webp" /></a>
+  <a href="https://angmolly.netlify.app/" target="_blank"><img width="60px" src="https://github.com/Dev-Squadpy/imgreadme/blob/main/portfolio.png" alt="Portfolio" /></a>
 </div>
 
 <br>
