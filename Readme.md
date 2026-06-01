@@ -125,6 +125,11 @@
 <!-- Ending -->
 <img src="https://iili.io/C381N8g.png" alt="Wall-E GIF" style="width:auto; height:auto" />
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
 <p align="center">
