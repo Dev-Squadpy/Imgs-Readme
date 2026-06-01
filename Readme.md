@@ -57,7 +57,7 @@
   <a href="https://www.instagram.com/mollfloww/"><img width="35px" src="instagram_logo_icon_186894.webp" alt="Instagram" /></a>
   <a href="https://x.com/Angel0046167394"><img width="35px" src="268058_x-logo-icon.webp" alt="X" /></a>
   <a href="https://linktr.ee/mollflow094"><img width="35px" src="linktree_logo_icon_247832.webp" /></a>
-  <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/11zon_cropped.png" alt="Portfolio" /></a>
+  <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank"><img width="60px" src="Gemini_Generated_Image_70nmqp70nmqp70nm-removebg-preview.png" alt="Portfolio" /></a>
 </div>
 
 <br>
