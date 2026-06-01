@@ -69,13 +69,27 @@
 <br>
 
 <!-- Tech Stack -->
-<h3 align="center"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> 🛠️ Arsenal Técnico </b>
-<br>
-<div align="center">
+<h3 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
+  🛠️ Arsenal Técnico
+</h3>
+
+<br><br>
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,postgres,prisma,express,figma,firebase,github,html,js,mongodb,mysql,nextjs,nodejs,py,react,tailwind,vscode,&perline=14" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,firebase,github&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,py,vscode,git&theme=dark" />
 </p>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
